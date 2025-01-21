@@ -1,5 +1,5 @@
 # AsciiUI
-A responsive retro UI to power TS3
+A retro UI to power Ts3
 
 - go from Text to Interactive UI
 - priorities:
